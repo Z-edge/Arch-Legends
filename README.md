@@ -1,6 +1,6 @@
 # Arch-Legends
 
-A non-GUI game based on OOP concept shaving different hero classes, sidekicks, monsters and a boss.
+A non-GUI game based on OOP concept having different hero classes, sidekicks, monsters and a boss.
 
 Each hero class has different Defense and Attack stats and a Special Power.
 Each monster class has different attack stats and no defense stat.
